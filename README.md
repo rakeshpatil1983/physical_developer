@@ -16,6 +16,8 @@ This list keeps on Growing as the development progresses.
 - Chemical Designers and simulators
 - Atom and Quantum level simulators
 
+# Open Source Software
+This is a complete open source software and contributions are welcome.
 
 # Status
 This is just begun and any updates will follow here.
